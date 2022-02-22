@@ -1,0 +1,30 @@
+C:\Users\Cathair\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Cathair\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Cathair\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Cathair\source\repos\Calculator\Calculator\obj\Debug\Calculator.CalculatorForm1.resources
+C:\Users\Cathair\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Cathair\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Cathair\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Cathair\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Cathair\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Cathair\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Cathair\Documents\GitHub\Simple-Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Cathair\Documents\GitHub\Simple-Calculator\bin\Debug\Calculator.exe
+C:\Users\Cathair\Documents\GitHub\Simple-Calculator\bin\Debug\Calculator.pdb
+C:\Users\Cathair\Documents\GitHub\Simple-Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Cathair\Documents\GitHub\Simple-Calculator\obj\Debug\Calculator.CalculatorForm1.resources
+C:\Users\Cathair\Documents\GitHub\Simple-Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Cathair\Documents\GitHub\Simple-Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Cathair\Documents\GitHub\Simple-Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Cathair\Documents\GitHub\Simple-Calculator\obj\Debug\Calculator.exe
+C:\Users\Cathair\Documents\GitHub\Simple-Calculator\obj\Debug\Calculator.pdb
+D:\01_Abid Alauddin\Simple-Calculator-master\bin\Debug\Calculator.exe.config
+D:\01_Abid Alauddin\Simple-Calculator-master\bin\Debug\Calculator.exe
+D:\01_Abid Alauddin\Simple-Calculator-master\bin\Debug\Calculator.pdb
+D:\01_Abid Alauddin\Simple-Calculator-master\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\01_Abid Alauddin\Simple-Calculator-master\obj\Debug\Calculator.CalculatorForm1.resources
+D:\01_Abid Alauddin\Simple-Calculator-master\obj\Debug\Calculator.Properties.Resources.resources
+D:\01_Abid Alauddin\Simple-Calculator-master\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\01_Abid Alauddin\Simple-Calculator-master\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\01_Abid Alauddin\Simple-Calculator-master\obj\Debug\Calculator.exe
+D:\01_Abid Alauddin\Simple-Calculator-master\obj\Debug\Calculator.pdb
